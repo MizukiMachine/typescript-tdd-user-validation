@@ -1,3 +1,4 @@
+// src/types.ts
 export interface UserInput {
   username: string;
   email: string;
